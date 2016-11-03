@@ -1,0 +1,9 @@
+C:\Users\Fabio Marcell\Desktop\theApi\Api.DataAccess.Mssql\bin\Debug\Api.DataAccess.Mssql.dll.config
+C:\Users\Fabio Marcell\Desktop\theApi\Api.DataAccess.Mssql\bin\Debug\Api.DataAccess.Mssql.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.DataAccess.Mssql\bin\Debug\Api.DataAccess.Mssql.pdb
+C:\Users\Fabio Marcell\Desktop\theApi\Api.DataAccess.Mssql\bin\Debug\EntityFramework.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.DataAccess.Mssql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.DataAccess.Mssql\bin\Debug\EntityFramework.xml
+C:\Users\Fabio Marcell\Desktop\theApi\Api.DataAccess.Mssql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabio Marcell\Desktop\theApi\Api.DataAccess.Mssql\obj\Debug\Api.DataAccess.Mssql.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.DataAccess.Mssql\obj\Debug\Api.DataAccess.Mssql.pdb

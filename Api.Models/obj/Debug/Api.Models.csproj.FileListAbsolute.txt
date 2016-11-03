@@ -1,0 +1,4 @@
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Models\bin\Debug\Api.Models.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Models\bin\Debug\Api.Models.pdb
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Models\obj\Debug\Api.Models.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Models\obj\Debug\Api.Models.pdb

@@ -1,0 +1,13 @@
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\bin\Debug\Api.Repository.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\bin\Debug\Api.Repository.pdb
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\bin\Debug\Api.Models.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\bin\Debug\Api.Models.pdb
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\obj\Debug\Api.Repository.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\obj\Debug\Api.Repository.pdb
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\bin\Debug\Api.DataAccess.Mssql.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\bin\Debug\Api.DataAccess.Mssql.pdb
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\obj\Debug\Api.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabio Marcell\Desktop\theApi\Api.Repository\bin\Debug\EntityFramework.SqlServer.xml
